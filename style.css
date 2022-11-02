@@ -1,0 +1,81 @@
+* {
+    font-size: 25;
+    
+}
+
+body {
+    margin: 0 auto;
+    background-color: rgb(8, 122, 122);
+}
+
+.secao1 {
+    font-family: sans-serif;
+    text-align: center;
+    background: white;
+    max-width: 60%;
+    margin:40px auto; 
+    border-radius: 5px;
+    padding: 20px 20px;
+    
+
+
+}
+
+h2 {
+    font-family:monospace;
+    font-size: 15;
+    text-align: left;
+    margin: 10px 20px;
+}
+
+
+.p1 {
+    font-size: 15;
+    text-align: left;
+    margin: 10px 20px;
+    
+    
+}
+
+.p2 {
+    font-size: 15;
+    text-align: left;
+    margin: 10px 20px;
+    
+    
+}
+
+div {
+    display: inline-block;
+    
+}
+
+form input, form label { 
+    border-radius: 5px;
+    margin: 5px 5px;
+  
+}
+
+.s2{
+    font-family: sans-serif;
+    text-align: center;
+    background: white;
+    max-width: 60%;
+    margin:auto;  
+    border-radius: 5px;
+    padding: 20px 20px;
+       
+}
+
+#resultado {
+  font-size:25; 
+  text-align: left; 
+}
+
+button {background: rgb(17, 194, 194);
+    color:black;
+    border-radius: 3px;
+    cursor: pointer;
+    padding: 3px;
+    border: 1px solid;
+}
