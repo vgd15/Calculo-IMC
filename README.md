@@ -1,3 +1,3 @@
 # Calculo-IMC
 
-Site no GitHub Pages [Site Ada](https://vgd15.github.io/Calculo-IMC/)
+Site no GitHub Pages [Calculo IMC](https://vgd15.github.io/Calculo-IMC/)
