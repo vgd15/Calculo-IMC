@@ -1,3 +1,4 @@
-# Calculo IMC
-
-Site no GitHub Pages [Calculo IMC](https://vgd15.github.io/Calculo-IMC/)
+[Calculo IMC](https://vgd15.github.io/Calculo-IMC/)
+<br>
+<br>
+Projeto para treinar habilidades em JavasCript
